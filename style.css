@@ -4,10 +4,12 @@ body {
 
 #titulo {
     text-align: center;
+    font-size: 70px;
 }
 
 .texto {
     text-align: center;
-    color:rgb(197, 60, 156);
+    font-size: 50px;
+    color:rgb(119, 4, 84);
 }
 
